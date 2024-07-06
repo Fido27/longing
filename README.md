@@ -1,16 +1,9 @@
 # longing
 
-A new Flutter project.
+I built this app when I was heartbroken and wanted to make long distance better for everyone. I truely believe that if the community contributes to this project enough, we can populate it with endless date ideas that could potentially help build a deeper a stronger bond with your significant other.
 
-## Getting Started
+To run this app on Android, simply download the apk from fido27.tech/longing.apk
 
-This project is a starting point for a Flutter application.
+Unfortunatly I dont have a built executable for other platforms, however you can build this project from source for your desired platform by cloning this repo and then running it with "flutter run". You will have to connect a firebase and to connect with the android users (i.e. my firebase config), contact me at fido27.tech/contact
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I hope you love this project and leave some ideas or suggestions or complaints at my contact page. 
