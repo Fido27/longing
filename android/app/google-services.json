@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141813298815",
+    "project_id": "longing-2027",
+    "storage_bucket": "longing-2027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141813298815:android:f913c7980bb18b1312f14a",
+        "android_client_info": {
+          "package_name": "tech.fido27.longing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC013tPW_o2jOTAATi17pQorrQx1kSIya0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
