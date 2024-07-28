@@ -148,7 +148,7 @@ class _BookCardState extends State<BookCard> {
                               const SizedBox(height: 10),
                               Padding(
                                 padding:
-                                    const EdgeInsets.symmetric(horizontal: 8.0),
+                                    const EdgeInsets.symmetric(horizontal: 20.0),
                                 child: Text(
                                   longDesc!,
                                   textAlign: TextAlign.left,
@@ -181,9 +181,13 @@ class _BookCardState extends State<BookCard> {
                                               hintText: "Book Title")),
                                     )),
                               ),
-                              Text("Your partner is on page $partnerPageNum"),
+                              Padding(
+                                padding: const EdgeInsets.all(20.0),
+                                child: Text("Your partner is on page $partnerPageNum"),
+                              ),
                               Row(
                                 children: [
+                                  const Spacer(),
                                   const Text("You are on Page: "),
                                   SizedBox(
                                     height: 50,
@@ -218,7 +222,8 @@ class _BookCardState extends State<BookCard> {
                                           userPageNum.toString();
                                     }),
                                     child: const Icon(Icons.add),
-                                  )
+                                  ),
+                                  const Spacer(),
                                 ],
                               ),
                               MaterialButton(

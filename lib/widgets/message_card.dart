@@ -139,7 +139,7 @@ class _MessageCardState extends State<MessageCard> {
                               const SizedBox(height: 10),
                               Padding(
                                 padding:
-                                    const EdgeInsets.symmetric(horizontal: 8.0),
+                                    const EdgeInsets.symmetric(horizontal: 20.0),
                                 child: Text(
                                   longDesc!,
                                   textAlign: TextAlign.left,
